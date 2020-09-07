@@ -1,0 +1,1 @@
+mysqldump -u root test > ./database-backup.sql
